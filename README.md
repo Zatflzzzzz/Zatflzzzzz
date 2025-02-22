@@ -76,8 +76,6 @@
 
 [![Codewars](https://www.codewars.com/users/Zatflzzz/badges/large)](https://www.codewars.com/users/Zatflzzz)
 
-![Codewars](https://www.codewars.com/api/v1/users/Zatflzzz?badge=true)
-
 ---
 ## Обо мне:
 -  Учусь на 2 курсе **БГУИР**, факультет компьютерного проектирования, специальность **"Программная инженерия"**.
