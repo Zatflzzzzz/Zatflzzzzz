@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут [ТВОЕ ИМЯ], я Backend-разработчик
+# Привет! 👋 Меня зовут Тимофей, я Backend-разработчик
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+PostgreSQL+%7C+OAuth2;Always+learning+new+technologies" alt="Typing SVG" />
@@ -56,8 +56,8 @@
 ## 📊 GitHub Статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zatflz&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatflz&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -65,13 +65,10 @@
 ## 📬 Контакты:
 
 <p align="left">
-  <a href="https://t.me/ТВОЙ_TELEGRAM">
+  <a href="https://t.me/zatflz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ТВОЙ_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.codewars.com/users/ТВОЙ_CODEWARS">
+  <a href="https://www.codewars.com/users/Zatflzzz/badges/large">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
 </p>
