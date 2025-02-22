@@ -54,5 +54,7 @@
 
 ---
 
+<p align="center">
+  [![Codewars](https://www.codewars.com/users/Zatflzzz/badges/large)](https://www.codewars.com/users/Zatflzzz)
+</p>
 
-[![Codewars](https://www.codewars.com/users/Zatflzzz/badges/large)](https://www.codewars.com/users/Zatflzzz)
