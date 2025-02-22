@@ -62,21 +62,24 @@
 
 ---
 
-## 📬 Контакты:
+## Контакты:
 
 <p align="left">
   <a href="https://t.me/zatflz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.codewars.com/users/Zatflzzz/badges/large">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 🚀 Обо мне:
-- 🎓 Учусь на 2 курсе **БГУИР**, факультет компьютерного проектирования, специальность **"Программная инженерия"**.
-- 💡 Прошел **3 года обучения** в академии ШАГ на Full Stack разработчика.
-- 🛠 Пишу **Backend на Java (Spring Boot)** и **Node.js**.
-- 🌱 Постоянно изучаю новые технологии и улучшаю свои навыки.
+## Codewars Статистика:
+
+[![Codewars](https://www.codewars.com/users/Zatflzzz/badges/large)](https://www.codewars.com/users/Zatflzzz)
+
+![Codewars](https://www.codewars.com/api/v1/users/Zatflzzz?badge=true)
+
+---
+## Обо мне:
+-  Учусь на 2 курсе **БГУИР**, факультет компьютерного проектирования, специальность **"Программная инженерия"**.
+-  Прошел **3 года обучения** в академии ШАГ на Full Stack разработчика.
+-  Пишу **Backend на Java (Spring Boot)** и **Node.js**.
