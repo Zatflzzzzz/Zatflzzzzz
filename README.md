@@ -40,6 +40,4 @@
 
 ---
 
-### 🏆 **Codewars**
-
 [![Codewars](https://www.codewars.com/users/Zatflzzz/badges/large)](https://www.codewars.com/users/Zatflzzz)
