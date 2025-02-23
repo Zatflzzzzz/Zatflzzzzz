@@ -45,9 +45,6 @@
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zatflzzzzz&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zatflzzzzz&layout=compact&theme=radical" height="180px"/>
