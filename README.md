@@ -27,7 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth2-430098?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/Keycloak-20A4F3?style=for-the-badge&logo=keycloak&logoColor=white" />
@@ -51,6 +52,4 @@
 
 ---
 
-  [![Codewars](https://www.codewars.com/users/Zatflzzz/badges/small)](https://www.codewars.com/users/Zatflzzz)
-
-
+[![Codewars](https://www.codewars.com/users/Zatflzzz/badges/small)](https://www.codewars.com/users/Zatflzzz)
